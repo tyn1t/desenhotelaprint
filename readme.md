@@ -3,19 +3,20 @@
 ## Bom desafio print
 
 ## triângulo 
+
    
-###           x
-###          x x
-###         xxxxx
+       x
+      x x
+     xxxxx
 
 ## Quadrado 
        
-###          OOOO
-###          OOOO
-###          OOOO
+          OOOO
+          OOOO
+          OOOO
 
 ## Quadrado vazio dentro
-
-###          oooo
-###          o  o
-###          oooo  
+ 
+          oooo
+          o  o
+          oooo  
